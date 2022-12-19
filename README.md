@@ -1,34 +1,39 @@
 # python-algorithm
 
-Two Sum
-https://leetcode.com/problems/two-sum/
-Solved Once: ✅
-Level: Easy (😛)
-Confidence: D
-Approach: hash_map (👍)
+## Two Sum
 
-Best Time to Buy and Sell Stock
-Solved Once: ✅
-Level: Easy (😛)
-Confidence: D
-Approach: two pointer (👍)
+- https://leetcode.com/problems/two-sum/
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: D
+- Approach: hash_map (👍)
 
-Contains Duplicate
-Solved Once: ✅
-Level: Easy (😛)
-Confidence: D
-Approach: hashSet (👍)
+## Best Time to Buy and Sell Stock
 
-Product of Array Except Self
-Solved Once: ✅
-Level: Medium (🤕)
-Confidence: D
-Approach: sliding window (👍)
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: D
+- Approach: two pointer (👍)
 
-Maximum Subarray
-Solved Once: ✅
-Level: Medium (🤕)
-Confidence: D
+## Contains Duplicate
+
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: D
+- Approach: hashSet (👍)
+
+## Product of Array Except Self
+
+- Solved Once: ✅
+- Level: Medium (🤕)
+- Confidence: D
+- Approach: sliding window (👍)
+
+## Maximum Subarray
+
+- Solved Once: ✅
+- Level: Medium (🤕)
+- Confidence: D
 
 Maximum Product Subarray
 
