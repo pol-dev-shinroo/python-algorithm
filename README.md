@@ -55,6 +55,11 @@ Find Minimum in Rotated Sorted Array
 
 Search in Rotated Sorted Array
 
+- https://leetcode.com/problems/search-in-rotated-sorted-array/
+- Solved Once: ✅
+- Level: Hard (🤬)
+- Confidence: D
+
 3 Sum
 
 Container With Most Water
