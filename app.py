@@ -1,12 +1,23 @@
-def solution(nums):
-    maxNum = 0
-    currMax = 0
-    for n in nums:
-        if currMax < 0:
-            currMax = 0
-        currMax += n
-        maxNum = max(maxNum, currMax)
-    return maxNum
+def solution(nums, target):
+    l, r = 0, len(nums) - 1
+
+    while l < r:
+        if nums[l] == target:
+            return l
+
+    m = (l + r) // 2
+
+    if nums[l] > target:
+        if nums[m] <= nums[l]:
+            l = 1 + m
+        else:
+            r = 1 - m
+    else:
+        l += 1
+
+    return -1
 
 
-print(solution([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+print(solution([4, 5, 6, 7, 0, 1, 2], 0))
+
+print("ol")
