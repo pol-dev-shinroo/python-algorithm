@@ -46,18 +46,25 @@
 - Level: Hard (🤬)
 - Confidence: D
 
-Find Minimum in Rotated Sorted Array
+## Find Minimum in Rotated Sorted Array
 
 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - Solved Once: ✅
 - Level: Hard (🤬)
 - Confidence: D
 
-Search in Rotated Sorted Array
+## Search in Rotated Sorted Array
 
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - Solved Once: ✅
 - Level: Hard (🤬)
+- Confidence: D
+
+## Two Sum Two
+
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- Solved Once: ✅
+- Level: Medium (🤕)
 - Confidence: D
 
 3 Sum
