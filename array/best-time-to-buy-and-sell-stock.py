@@ -14,7 +14,7 @@ print(profit([7, 1, 5, 3, 6, 4]))
 
 # two pointers
 
-# 조건: 존버는 금지
+# 조건: 존버는 금지?
 def twoPointers(prices):
     l, r = 0, 1  # left = buy, right = sell
     maxProfit = 0

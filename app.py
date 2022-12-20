@@ -1,15 +1,12 @@
-def maxProfit(prices):
-    l, r = 0, 1
-    maxProfit = 0
-    while r < len(prices):
-        profit = prices[r] - prices[l]
-        # profitable
-        if profit > 0:
-            maxProfit = max(profit, maxProfit)
-        else:
-            l = r
-        r += 1
-    return maxProfit
+def solution(nums):
+    maxNum = 0
+    currMax = 0
+    for n in nums:
+        if currMax < 0:
+            currMax = 0
+        currMax += n
+        maxNum = max(maxNum, currMax)
+    return maxNum
 
 
-print(maxProfit([7, 1, 5, 3, 6, 4]))
+print(solution([-2, 1, -3, 4, -1, 2, 1, -5, 4]))

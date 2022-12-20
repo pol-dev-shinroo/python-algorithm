@@ -5,37 +5,46 @@
 - https://leetcode.com/problems/two-sum/
 - Solved Once: ✅
 - Level: Easy (😛)
-- Confidence: D
+- Confidence: B
 - Approach: hash_map (👍)
 
 ## Best Time to Buy and Sell Stock
 
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Solved Once: ✅
 - Level: Easy (😛)
-- Confidence: D
+- Confidence: C
 - Approach: two pointer (👍)
 
 ## Contains Duplicate
 
+- https://leetcode.com/problems/contains-duplicate/
 - Solved Once: ✅
 - Level: Easy (😛)
-- Confidence: D
+- Confidence: B
 - Approach: hashSet (👍)
 
 ## Product of Array Except Self
 
+- https://leetcode.com/problems/product-of-array-except-self/
 - Solved Once: ✅
-- Level: Medium (🤕)
+- Level: Hard (🤬)
 - Confidence: D
 - Approach: sliding window (👍)
 
 ## Maximum Subarray
 
+- https://leetcode.com/problems/maximum-subarray/
 - Solved Once: ✅
 - Level: Medium (🤕)
 - Confidence: D
 
-Maximum Product Subarray
+## Maximum Product Subarray
+
+- https://leetcode.com/problems/maximum-product-subarray/
+- Solved Once: ✅
+- Level: Hard (🤬)
+- Confidence: D
 
 Find Minimum in Rotated Sorted Array
 
