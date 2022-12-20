@@ -48,6 +48,11 @@
 
 Find Minimum in Rotated Sorted Array
 
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- Solved Once: ✅
+- Level: Hard (🤬)
+- Confidence: D
+
 Search in Rotated Sorted Array
 
 3 Sum
