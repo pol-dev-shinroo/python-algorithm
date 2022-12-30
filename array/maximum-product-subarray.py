@@ -8,10 +8,12 @@ def solution(nums):
         if n == 0:
             curMin, curMax = 1, 1
             continue
+
+        temp = curMax * n  # need to compare before currMax gets updated
         curMax = max(n * curMax, n * curMin, n)
-        curMin = min(n * curMax, n * curMin, n)
+        curMin = min(temp, n * curMin, n)
         res = max(res, curMax)
     return res
 
 
-print(solution([2, 3, -2, 4]))
+print(solution([-4, -3, -2]))
