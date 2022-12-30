@@ -75,10 +75,15 @@ Container With Most Water
 
 - https://leetcode.com/problems/container-with-most-water/
 - Solved Once: ✅
-- Level: Easy (😛)
-- Confidence: A
+- Level: Hard (🤬)
+- Confidence: D
 
 Sum of Two Integers
+
+- https://leetcode.com/problems/sum-of-two-integers/description/
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: A
 
 Number of 1 Bits
 
