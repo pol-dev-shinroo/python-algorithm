@@ -71,21 +71,26 @@ https://docs.google.com/spreadsheets/d/1XfD-XyonJ0LqzJFI_NJlW70znP4CUsb5HQrgKU3Y
 
 3 Sum
 
-Container With Most Water
+## Container With Most Water
 
 - https://leetcode.com/problems/container-with-most-water/
 - Solved Once: ✅
 - Level: Hard (🤬)
 - Confidence: D
 
-Sum of Two Integers
+## Sum of Two Integers
 
 - https://leetcode.com/problems/sum-of-two-integers/description/
 - Solved Once: ✅
 - Level: Easy (😛)
-- Confidence: A
+- Confidence: D
 
-Number of 1 Bits
+## Number of 1 Bits
+
+- https://leetcode.com/problems/number-of-1-bits/
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: D
 
 Counting Bits
 
