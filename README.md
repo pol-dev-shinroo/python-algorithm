@@ -64,8 +64,8 @@
 
 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - Solved Once: ✅
-- Level: Medium (🤕)
-- Confidence: D
+- Level: Easy (😛)
+- Confidence: A
 
 3 Sum
 
