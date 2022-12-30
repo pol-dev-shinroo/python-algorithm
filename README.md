@@ -73,6 +73,11 @@ https://docs.google.com/spreadsheets/d/1XfD-XyonJ0LqzJFI_NJlW70znP4CUsb5HQrgKU3Y
 
 Container With Most Water
 
+- https://leetcode.com/problems/container-with-most-water/
+- Solved Once: ✅
+- Level: Easy (😛)
+- Confidence: A
+
 Sum of Two Integers
 
 Number of 1 Bits
