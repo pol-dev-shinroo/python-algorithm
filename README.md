@@ -1,5 +1,7 @@
 # python-algorithm
 
+https://docs.google.com/spreadsheets/d/1XfD-XyonJ0LqzJFI_NJlW70znP4CUsb5HQrgKU3Y-5E/edit#gid=1217745492
+
 ## Two Sum
 
 - https://leetcode.com/problems/two-sum/
