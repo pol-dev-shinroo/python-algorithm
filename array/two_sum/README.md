@@ -163,3 +163,28 @@ for a + 1 in range(len(nums))
 - [-3, 3], 0
 - [3, -3], 0
 - 어짜피 정수의 차이를 구하는거니까 absolute value 걱정하지 않아도 됨. (생각해보면 당연한거임 => 그래프 만들어 보셈!)
+
+### Two Pointer
+
+```python
+class Solution:
+    def twoSum(self, nums, target):
+        left = 0
+        right = len(nums) - 1
+
+        while left < right:
+            current_sum = nums[left] + nums[right]
+            if current_sum == target:
+                return [left, right]  # or return [left + 1, right + 1] if not 0-indexed
+            elif current_sum < target:
+                left += 1
+            else:
+                right -= 1
+
+        return None  # return None if there's no solution
+```
+
+**Problem with two-pointer**
+
+- If the array is not sorted, you would need to sort it first before applying this method, which would make the time complexity O(n log n) due to the sorting operation.
+- Also, sorting the array would mess up the original indices, so you'd need to store them before sorting if the original indices are required in the output.
