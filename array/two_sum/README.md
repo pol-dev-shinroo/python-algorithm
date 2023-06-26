@@ -98,6 +98,10 @@ for a + 1 in range(len(nums))
 
 ### Hash Table
 
+<span style="display: inline-block; background-color: blue; border-radius: 800px; padding:2px; color: white;">
+    91.73%
+</span>
+
 **1. Failed Code: 1**
 
 ```python
