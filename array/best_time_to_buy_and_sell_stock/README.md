@@ -69,6 +69,8 @@ class Solution:
 **Point to remember: Upate l to r!!**
 
 - The algorithm continues this way, checking each price exactly once (not twice like before), until it has checked all prices.
+- basically l is the running minimum (hence almost the same logic as the [running mimimum method](#one-pass-running-minumum-with-comparison)).
+- However, two pointer method is slower than the running mimimum because it has to calculate diff for every loop + the for loop is faster than while (comparison logic)
 
 ### One pass/ running minumum with comparison
 
