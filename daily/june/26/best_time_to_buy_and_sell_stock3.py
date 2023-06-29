@@ -8,9 +8,10 @@ class Solution:
                 min_number = prices[i]
             else:
                 max_number = max(max_number, prices[i])
-        
+
         return max_number - min_number
-            
+
+
 solution = Solution()
 
-print(solution.twoPoint([1,0,2,3]))
+print(solution.twoPoint([1, 0, 2, 3]))
